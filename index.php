@@ -106,7 +106,7 @@ http://www.templatemo.com/tm-508-power
                                 <img src="img/lab2.png" alt="">
                             </div>
                             <h4>Laboratory</h4>
-                            <p><br>Integrated Laboratory Center (Pusat Laboratorium Terpadu / PLT). Inside there is a laboratory for students majoring in chemistry, physics, mathematics, biology, agribusiness, information systems and informatics engineering.</p>
+                            <p>Integrated Laboratory Center (Pusat Laboratorium Terpadu / PLT). Inside there is a laboratory for students majoring in chemistry, physics, mathematics, biology, agribusiness, information systems and informatics engineering.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
